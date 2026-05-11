@@ -42,3 +42,10 @@ test.md
 todo/
 todo.md
 *.DS_Store
+
+### docker ###
+Dockerfile
+docker-compose.yml
+
+### application ###
+src/main/resources/application.yml
