@@ -35,8 +35,6 @@ out/
 
 ### VS Code ###
 .vscode/
-md/
-md
 test/
 test.md
 todo/
@@ -49,3 +47,5 @@ docker-compose.yml
 
 ### application ###
 src/main/resources/application.yml
+
+cli/
